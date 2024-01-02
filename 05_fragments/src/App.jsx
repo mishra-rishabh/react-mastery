@@ -5,7 +5,7 @@ function App() {
 
   return (
     <React.Fragment>
-      <h1>Healthy Foods</h1>
+      <h1>React Fragment</h1>
       <ul class="list-group">
         <li class="list-group-item">An item</li>
         <li class="list-group-item">A second item</li>
