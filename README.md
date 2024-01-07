@@ -4,3 +4,10 @@ This space is dedicated to learning and exploring React, the JavaScript library 
 
 ### Create Vite Project
 ```npm create vite@latest```
+
+
+### React Icons Library
+1. You can use a lot of items without managing them.
+2. **Install Package:** `npm install react-icons --save`
+3. **Use icons:** `import {IconName} from "react-icons/fc"`
+4. **Website:** https://react-icons.github.io/react-icons/
