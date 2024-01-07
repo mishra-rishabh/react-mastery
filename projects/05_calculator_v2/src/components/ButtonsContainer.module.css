@@ -1,0 +1,19 @@
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 70px;
+    height: 40px;
+    margin: 10px;
+    border: none;
+}
+
+.specialButton {
+    width: 160px;
+    height: 40px;
+    margin: 10px;
+    border: none;
+}
