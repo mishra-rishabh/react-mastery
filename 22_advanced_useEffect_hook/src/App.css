@@ -1,0 +1,36 @@
+.appContainer {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 845px;
+}
+
+.post-card {
+  margin: 20px 50px;
+}
+
+.hashtag {
+  margin: 0 2px;
+}
+
+.reactions {
+  margin: 20px 0;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.create-post {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.spinner {
+  margin: 20%;
+}
