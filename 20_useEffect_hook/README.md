@@ -1,0 +1,6 @@
+# `useEffect` Hook
+
+1. In function-based components, `useEffect` handles side effects like data fetching or event listeners.
+2. `useEffect` runs automatically after every render by default.
+3. By providing a dependency array, `useEffect` will only run when specified variables change. An empty array means the effect runs once.
+4. Multiple use Effect hooks can be used in a single component for organizing different side effects separately.
