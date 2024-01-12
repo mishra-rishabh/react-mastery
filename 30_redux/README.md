@@ -22,7 +22,7 @@
 
 ## Working with Redux
 
-1. `npm init-y`
+1. `npm init -y`
 2. `npm install redux`
 3. `import` in node `const redux = require('redux');`
 4. We need to setup all 4 basic things:
