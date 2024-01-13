@@ -9,7 +9,7 @@ Allows grouping of multiple elements without extra DOM nodes.
 
 ## How?
 Two syntaxes:
-1. `<React. Fragment>...</React. Fragment>`
+1. `<React.Fragment>...</React.Fragment>`
 2. **Short:** `<>...</>`
 
 ## Example with Parent Element (div)
