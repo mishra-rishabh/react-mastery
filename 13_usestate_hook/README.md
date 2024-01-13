@@ -24,3 +24,6 @@
 * Read-only (immutable) within the receiving component.
 * Allow parent-to-child component communication.
 * Changes in props can also cause a re-render.
+
+## Good Resource for React Hooks
+https://react.dev/reference/react/hooks
